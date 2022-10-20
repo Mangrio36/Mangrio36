@@ -12,7 +12,7 @@
 
 # 💻Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,vscode,git,github&theme=light)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=light)](https://github.com/tandpfun/skill-icons)
 <br>
 
 # 📊GitHub Stats :
