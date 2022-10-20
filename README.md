@@ -12,7 +12,7 @@
 
 # 💻Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Html](https://img.shields.io/badge/html-%23039BE5.svg?style=for-the-badge&logo=firebase)![Css](https://img.shields.io/badge/css-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Html](https://img.shields.io/badge/html-%23039BE5.svg?style=for-the-badge&logo=html)![Css](https://img.shields.io/badge/css-%23DD0031.svg?style=for-the-badge&logo=css&logoColor=white)
 
 # 📊GitHub Stats :
 
