@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning Javascript ...
 - 📫 How to reach me Mangriolali3662@gmail.com...
 
-## 🌐Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kamran.jh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kami_mangrio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-ali-8a1390254/)
 
 # 💻Tech Stack
 
